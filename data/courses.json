@@ -1,50 +1,50 @@
 [
   {
     "id": "01",
-    "name": "C",
-    "img_url": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
-    "title": "Biden Pledges Ukraine In Largest U.S. Military Aid Package Yet",
-    "price": "40",
-    "description": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia."
+    "name": "C Programming For Beginners",
+    "img_url": "https://contentstatic.techgig.com/photo/90325682.cms",
+    "title": "Master C programming concepts from the ground up",
+    "price": "80",
+    "description": "C is one of the most important of all programming languages. It is used to program desktop applications, compilers, tools and utilities and even hardware devices. The C language is fast and efficient, but it can be hard to learn. Unless you use this course. This course begins with a gentle introduction to C but quickly moves on to explain some of its most confusing features: everything from C's 'scoping' rules to the curious connection between arrays and memory addresses. By the end of the course you will have a deep understanding both of the C language itself and also of the underlying 'architecture' of your computer."
   },
   {
     "id": "02",
-    "name": "C++",
-    "img_url": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
-    "title": "Biden Pledges Ukraine In Largest U.S. Military Aid Package Yet",
-    "price": "40",
-    "description": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia."
+    "name": "C++ From Beginner to Expert",
+    "img_url": "https://history-computer.com/wp-content/uploads/2022/03/C-language.jpg",
+    "title": "Designed for people who don't have any knowledge about the programming and want to program in C++",
+    "price": "55",
+    "description": "The course is designed for those who don't have any prior knowledge about programming. It doesn't matter if you have never written any programs or you have no idea about programming. After my course all of this will change. You will bust the myth that programming is a difficult thing only for the few! Save your precious time by buying this course. You will learn how to program in C++ in a fast and easy way! The total length of the course is over 17 hours! You will learn theory and you will also gain lots of practice. During the course we will write many programs that will make you a great programmer."
   },
   {
     "id": "03",
-    "name": "Java",
-    "img_url": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
-    "title": "Biden Pledges Ukraine In Largest U.S. Military Aid Package Yet",
-    "price": "40",
-    "description": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia."
+    "name": "Java Programming Masterclass",
+    "img_url": "https://contentstatic.techgig.com/photo/90078629.cms",
+    "title": "Comprehensive Java programming course integrated with design principles and best practices",
+    "price": "75",
+    "description": "This course has been developed to just not teach core Java skills, but with a larger goal of helping you become a complete & professional Java engineer right by the end of this course. To realize this, it takes a holistic approach in teaching Java programming. To ensure that you master Java language, the course has been developed to be highly comprehensive covering most of the Java language features and discussing them at a very in-depth level. To further ensure you are industry-ready and can write well-designed, professional code, tons of best practices & design principles are explained and demonstrated in code. Towards this end, you'll also implement an instructor-led Java EE Web application using professional coding conventions with Eclipse as IDE. Finally, all your questions will receive in-depth personalized responses within around 24 hours. Over 5000 questions have already been answered so far!"
   },
   {
     "id": "04",
-    "name": "Python",
-    "img_url": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
-    "title": "Biden Pledges Ukraine In Largest U.S. Military Aid Package Yet",
-    "price": "40",
-    "description": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia."
+    "name": "The Complete Python Course",
+    "img_url": "https://ourcodeworld.com/public-media/articles/articleocw-5c6632dd1fe9f.jpg",
+    "title": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+    "price": "85",
+    "description": "If you are looking to learn Python for the very first time or need a quick brush-up, this is the course for you! Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years. So what are you waiting for? Jumpstart your programming journey and dive into the world of Python by enrolling in this course today!"
   },
   {
     "id": "05",
-    "name": "Javascript",
-    "img_url": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
-    "title": "Biden Pledges Ukraine In Largest U.S. Military Aid Package Yet",
-    "price": "40",
-    "description": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia."
+    "name": "JavaScript: The Complete Guide",
+    "img_url": "https://miro.medium.com/max/828/1*ZGfUm7YMxwvK893aL197nA.png",
+    "title": "Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2022.",
+    "price": "90",
+    "description": "Join the most comprehensive and in-depth JavaScript course on Udemy and learn JavaScript from the ground up, in great detail with this bestselling course! JavaScript is THE most important programming language you need to learn as a web developer - and with this course, you make sure that you will not miss a single thing you have to know as a JavaScript developer! This is the most comprehensive and modern course you can find on JavaScript - it's based on all my JavaScript knowledge AND teaching experience. It's both a complete guide, starting with the core basics of the language, as well as an extensive reference of the JavaScript language and environment, ensuring that both newcomers as well as experienced JavaScript developers get a lot out of this course!"
   },
   {
     "id": "06",
-    "name": "React",
-    "img_url": "https://live.staticflickr.com/65535/52412638962_12e932256a_o.png",
-    "title": "Biden Pledges Ukraine In Largest U.S. Military Aid Package Yet",
-    "price": "40",
-    "description": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia."
+    "name": "React Development Bootcamp",
+    "img_url": "https://360softech.com/wp-content/uploads/2021/09/reactjs-2.png",
+    "title": "Learn React Programming: Develop Web Applications Using Socket, REST APIs, Firebase, React Hooks, Bootstrap, React.js",
+    "price": "99",
+    "description": "ReactJS is a JavaScript component library for creating user interfaces for websites and applications. Developed by Jordan Walke in 2011, it sets a new precedent for developing fast and dynamic websites using JavaScript. Commonly known as React, it gives coders resources for developing reusable and easily integrate UI components that reduce development time and provide a responsive user interface for website, web app and mobile app.The User Interface or UI is anything a user uses to interact with a website, such as a button, a link, menu tabs, or search bars. React offers an extensive collection of such UI components that front-end developers use for creating personalized interactive elements. React mainly focuses on building the View Layer (consisting of all the parts of a page visible to users) of an application."
   }
 ]
