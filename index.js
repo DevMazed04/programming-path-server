@@ -11,6 +11,10 @@ app.get("/", (req, res) => {
    res.send("Programming Path API is running");
 });
 
+app.get("/courses", (req, res) => {
+   res.send(courses);
+});
+
 app.listen(port, () => {
    console.log("Programming Path Server is running on port", port);
 });
